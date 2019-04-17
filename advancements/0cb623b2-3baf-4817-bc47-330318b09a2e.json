@@ -1,325 +1,295 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2019-04-15 13:20:40 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_sandstone": "2019-04-15 13:07:07 -0400"
+      "has_sandstone": "2019-04-16 12:39:29 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "has_string": "2019-04-15 13:20:40 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_redstone_torch": "2019-04-16 12:56:22 -0400"
     },
     "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_redstone": "2019-04-15 13:08:04 -0400"
+      "has_redstone": "2019-04-17 12:58:35 -0400"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:end/root": {
     "criteria": {
-      "minecraft:skeleton": "2019-04-15 13:18:02 -0400"
+      "entered_end": "2019-04-16 13:01:19 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/decorations/green_bed": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_green_wool": "2019-04-17 13:16:26 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
-      "get_stone": "2019-04-15 13:27:32 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "has_water_bucket": "2019-04-15 13:28:52 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-04-16 13:00:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2019-04-17 13:16:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:desert": "2019-04-15 13:04:43 -0400"
+      "minecraft:desert": "2019-04-16 12:39:14 -0400"
     },
     "done": false
   },
-  "minecraft:recipes/redstone/redstone": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_redstone_block": "2019-04-15 13:31:09 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "lava_bucket": "2019-04-15 13:51:46 -0400"
+      "has_kelp": "2019-04-16 13:12:51 -0400"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_redstone": "2019-04-15 13:08:04 -0400"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2019-04-15 13:05:57 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-04-15 13:06:22 -0400"
+      "has_redstone": "2019-04-17 12:58:35 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "in_water": "2019-04-15 13:30:18 -0400"
+      "in_water": "2019-04-16 13:12:50 -0400"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "elytra": "2019-04-15 13:18:02 -0400"
+      "has_lots_of_items": "2019-04-16 13:15:27 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_wool": "2019-04-17 13:16:26 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "in_water": "2019-04-15 13:30:18 -0400"
+      "in_water": "2019-04-16 13:12:50 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2019-04-15 13:18:02 -0400"
+      "killed_something": "2019-04-16 13:14:59 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "in_water": "2019-04-15 13:30:18 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sign": {
-    "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "in_water": "2019-04-16 13:12:50 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2019-04-15 13:30:18 -0400"
+      "in_water": "2019-04-16 13:12:50 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_iron_block": "2019-04-17 13:14:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
   "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_redstone": "2019-04-15 13:08:04 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2019-04-15 13:20:40 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_redstone": "2019-04-17 12:58:35 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2019-04-15 13:30:18 -0400"
+      "in_water": "2019-04-16 13:12:50 -0400"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
-      "minecraft:skeleton": "2019-04-15 13:18:02 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-04-16 13:00:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-04-16 13:01:19 -0400"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_sandstone": "2019-04-15 13:07:07 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_at_least_9_redstone": "2019-04-15 13:41:34 -0400"
+      "has_sandstone": "2019-04-16 12:39:29 -0400"
     },
     "done": true
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_redstone": "2019-04-15 13:08:04 -0400"
+      "has_redstone": "2019-04-17 12:58:35 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_string": "2019-04-15 13:20:40 -0400"
+      "has_cod": "2019-04-16 13:15:17 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/decorations/green_banner": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2019-04-15 13:20:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_green_wool": "2019-04-17 13:16:26 -0400"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
-      "has_sandstone": "2019-04-15 13:07:07 -0400"
+      "has_sandstone": "2019-04-16 12:39:29 -0400"
     },
     "done": true
   },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_redstone": "2019-04-15 13:08:04 -0400"
+      "has_redstone": "2019-04-17 12:58:35 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
-      "has_redstone": "2019-04-15 13:08:04 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2019-04-15 13:30:18 -0400"
+      "in_water": "2019-04-16 13:12:50 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_cobblestone": "2019-04-15 13:27:32 -0400"
+      "has_redstone": "2019-04-17 12:58:35 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_iron_block": "2019-04-17 13:14:41 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
-      "has_planks": "2019-04-15 13:39:39 -0400"
+      "has_white_wool": "2019-04-17 13:17:25 -0400"
     },
     "done": true
   }
